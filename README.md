@@ -1,1 +1,1 @@
-# blogify-api
+Initial project setup and structure.
